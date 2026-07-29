@@ -2,7 +2,7 @@
 The dataset comprises 30,000+ house listings across Canada (up to 2023), featuring attributes such as price, city, province, address, bedrooms, bathrooms, and median income. The objective of this exercise is to provide predictive analytics using ML models of house prices all across Canada.
 For Predictive analysis, two models were employed. Linear Regression and Random Forest.
 
-Linear Regression  Results: MAE: 451463.0711 & R² Score: 0.2616
+Linear Regression  Results: MAE: 451463.07 & R² Score: 0.26
 
 Metrics Overview:
 
