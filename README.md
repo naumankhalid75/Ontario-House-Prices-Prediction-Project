@@ -9,7 +9,8 @@ Mean Absolute Error (MAE): 451463. It is the average of the absolute differences
 
 R² Score: 0.2616. It is (coefficient of determination) measures how well the model explains the variability in house prices. A value of 0.26 is quite low, meaning the model only explains 26% of the variance in the actual house prices. In simpler terms, the model does not fit the data well.
         
-Random Forest Results: MAE: 360959.01 & R² Score:0.4059
+Random Forest Results: 
+MAE: 360959.01 & R² Score:0.4059
 
 Metrics Overview:
 
